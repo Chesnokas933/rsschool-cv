@@ -14,6 +14,8 @@ I am an avition specialist and I 've worked at JSC "Minsk plant of civil aviatio
 No Experience of programming
 ## Education
 **University:** Belarussian State aviation academy (BSAA), Engineer
+
+
 **Courses:**
  * [codeacademy.com](https://codeacademy.com)
  * [learn.javascript.ru](https://learn.javascript.ru)
