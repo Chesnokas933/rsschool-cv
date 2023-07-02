@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Chesnokas933.github.io/rsschool-cv/cv
