@@ -1,3 +1,33 @@
 header {
     color:blue;
 }
+
+body {
+    background-color: aquamarine;
+}
+
+.logo {
+    width: 125px;
+    height: 50px;;
+}
+
+a {
+    color: blueviolet;
+    font-size: medium;
+    text-decoration: blink;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.myPhoto {
+    height: 25%;
+    width: 25%;
+}
